@@ -1,0 +1,8 @@
+127.0.0.1 - - [03/Jun/2022:17:24:52 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [03/Jun/2022:17:25:30 +0900] "GET /JSPBook/ch03/exercise/include.jsp HTTP/1.1" 200 259
+0:0:0:0:0:0:0:1 - - [03/Jun/2022:17:25:30 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+127.0.0.1 - - [03/Jun/2022:17:49:57 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [03/Jun/2022:17:50:18 +0900] "GET /JSPBook/ch03/exercise/taglib.jsp HTTP/1.1" 200 137
+0:0:0:0:0:0:0:1 - - [03/Jun/2022:18:00:51 +0900] "GET /BookMarket/welcome.jsp HTTP/1.1" 500 2364
+0:0:0:0:0:0:0:1 - - [03/Jun/2022:18:01:27 +0900] "GET /BookMarket/welcome.jsp HTTP/1.1" 200 744
+0:0:0:0:0:0:0:1 - - [03/Jun/2022:18:01:58 +0900] "GET /BookMarket/welcome.jsp HTTP/1.1" 200 748
